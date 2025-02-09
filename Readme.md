@@ -8,4 +8,4 @@ How you doin?!
 
 ## global development
 
-1. "open index.html" in you browser.
+1. "open index.html" .
